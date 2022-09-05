@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CAPConnect2.0</string>
+    <string name="Slogan">TAKING THE PAIN OUT OF CAMPAIGN!</string>
+    <string name="edit_name">Enter your full name</string>
+    <string name="edit_email">Enter your email please</string>
+    <string name="edit_address">48135 Cupcake Villa St. Herndon, Virginia</string>
+    <string name="edit_phone">(111)-111-1121</string>
+    <string name="edit_password">Please enter a secure, memorable password</string>
+    <string name="purpose">We are sophomores at TJHSST!
+Our mobile app is called capConnect.
+        We created this app using Android Studios, Elasticsearch and Flask.
+        The Phone2Action Legislator API was also used.
+        The main programming languages we used are Java and Python.
+</string>
+    <string name="website">Visit this link for more information on our website:
+    http://capconnectonline.org</string>
+    <string name="edit_description">Please enter a detailed description. This will be what potential volunteers will see when they view your campaign</string>
+    <string name="edit_category">Please enter a category for your campaign (eg. Environmental)</string>
+    <string name="edit_slogan">Please enter a slogan (eg. Nike - Just do it)</string>
+    <string name="editCampName">Catchy Name for your Campagin (Ex. Go Green!)</string>
+    <string name="FinishCamp">Congrats! You\'ve finished the process. Now users can view your campaign. Check and edit in \'My Campaigns\'</string>
+    <string name="camp1">Save the Bees - Honeybees are rapidly disappearing thanks to global warming. It\'s honestly an extreme disaster and we\'re looking for qualified volunteers to be bees.</string>
+    <string name="camp2">Equal Pay at Amazon - It\'s honestly a disaster when the world\'s biggest company pays it employees below the living wage. This campaign is the first step towards eventually closing the gender pay gap as well.</string>
+</resources>

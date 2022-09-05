@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C3CCF9</color>
+    <color name="colorPrimaryDark">#090df9</color>
+    <color name="colorAccent">#e7d4fc</color>
+    <color name="activityBackground">#ffffff</color>
+</resources>
