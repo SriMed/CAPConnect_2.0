@@ -7,4 +7,5 @@ The app allows users to create a profile that stores their interests. An elastic
 # Credits
 Srilakshmi Medarametla, Mitali Gandhe, Stuti Gupta, Khushmeet Chandi
 
-[HackTJ 6.0 3rd place winner for Phone2Action's sponsored prize](https://devpost.com/software/capconnector)
+# Links
+Submitted to [HackTJ 6.0](https://devpost.com/software/capconnector) - 3rd place winner for Phone2Action's sponsored prize
